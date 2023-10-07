@@ -1,0 +1,85 @@
+body{
+    background-color: #f0f2f5;
+}
+
+.div-main{
+    width: 400px;
+    height: 258.08px;
+    margin-right: 0px;
+    padding: 0px 32px 0px 0px;
+    font-family: inherit;
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: 12px;
+    margin-top: 196px;
+    margin-left: 176px;
+}
+
+.logo{
+    width: 320.94px;
+    height: 106px;
+    margin: -28px;
+    background-image: url(logo.png);
+    background-size: cover;
+}
+.pragh{
+    width: 368px;
+    height: 76px;
+    font-size: 24px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    padding: 0px 0px 20px;
+    line-height: 28px;
+    width: auto;
+}
+.logbox{
+    width: 396px;
+    height: 349px;
+    border: 2px solid white;
+    padding: 10px 0px 24px;
+    float: right;
+    margin-right: 190px;
+    margin-top: 130px;
+    background-color: rgb(255, 254, 254);
+    font-size: 52px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 9px #464343;
+}
+input{
+    width: 364px;
+    height: 50px;
+    border-radius: 6px;
+    padding: 6px 0px;
+    border: transparent;
+}
+
+
+.newpage{
+    float: right;
+    margin-right: 230px;
+}
+.btn{
+    width: 364px;
+    height: 52px;
+    background-color: #1877F2;
+    color: white;
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    padding: 0px 16px;
+    border-radius: 6px;
+    border: transparent;
+}
+a{
+    height: 16px;
+    font-size: 14px;
+}
+.ca{
+    width: 192.68px;
+    height: 48px;
+    background-color: #42b72a;
+    color: white;
+    padding: 0px 16px;
+    font-size: 17px;
+    border: transparent;
+    border-radius: 7px;
+}
